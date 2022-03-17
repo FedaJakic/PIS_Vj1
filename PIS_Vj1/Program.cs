@@ -8,6 +8,7 @@ namespace PIS_Vj1
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("New");
+            Console.WriterLine ("Old");
         }
     }
 }
