@@ -6,5 +6,6 @@ namespace PIS_Vj1
 {
     class NewClass
     {
+        private int = 0;
     }
 }
